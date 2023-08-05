@@ -19,3 +19,5 @@ This is a repo of mini games written in Python
 6. Minesweeper
     To run Minesweeper, open CLI and run python3 minesweeper.py. Good luck!
 
+7. Sudoku Solver
+    to run Sudoku Solver, open CLI and run python3 sudoku.py. To change board, replace numbers in example_board.
