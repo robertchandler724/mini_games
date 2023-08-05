@@ -14,4 +14,8 @@ This is a repo of mini games written in Python
     To run hangman, open CLI and run python3 hangman.py. A random word from words.py will me selected. To increase the number of lives, change the lives variable to whatever you want
 
 5. Tic-tac-Toe
-        To run TicTacToe, open CLI and run python3 game.py. Good luck beating AI!
+    To run TicTacToe, open CLI and run python3 game.py. Good luck beating AI!
+
+6. Minesweeper
+    To run Minesweeper, open CLI and run python3 minesweeper.py. Good luck!
+
