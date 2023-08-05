@@ -1,5 +1,6 @@
 # mini_games
 This is a repo of mini games written in Python
+tutorial video: https://www.youtube.com/watch?v=8ext9G7xspg&t=100s
 
 1. Madlibs
     To run madlids, open CLI and run python3 madlibs.py. You will be prompted to fill in the words. Once complete, it will generate your madlib.
